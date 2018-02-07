@@ -1,0 +1,46 @@
+{
+    "meta":{
+        "resolution":[1,2,3,4,5,6,7,8,9,10,11,12],
+        "intervals":[]              
+    },
+    "projects":[
+        {
+            "sumIntervals":[],
+            "name":"Nova",
+            "planned": [{
+                "date":"2018-02-05",
+                "day":5    
+            },{
+                "date":"2018-04-05",
+                "day":15    
+            },
+            {
+                "date":"2018-02-28",
+                "day":2    
+            }]
+        },
+        {
+            "sumIntervals":[],
+            "name":"Tatra",
+            "planned": [{
+                "date":"2018-02-12",
+                "day":15    
+            },{
+                "date":"2018-03-26",
+                "day":20    
+            }]
+        }
+    ],
+    "resources":[
+        {
+            "name":"BAG",
+            "planned":[{
+                "date":"2018-02-19",
+                "day":5    
+            },{
+                "date":"2018-03-05",
+                "day":5    
+            }]
+        }
+    ]
+}
